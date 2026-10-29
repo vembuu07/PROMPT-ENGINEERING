@@ -1,3 +1,5 @@
+## Name: Vembarasan P
+## Reg No: 212223220123
 ## AIM:	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 ## Experiment:
 Develop a comprehensive report for the following exercises:
